@@ -1,0 +1,7 @@
+[package]
+name = "rustberrypi"
+version = "0.1.0"
+authors = ["Woyten <woyten.tielesch@online.de>"]
+
+[dependencies]
+sysfs_gpio = "0.5.3"
